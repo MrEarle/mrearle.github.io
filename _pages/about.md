@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Currently enroled on a B.Sc. in Computer Engineering and on a M.Sc. in Deep Learning at Pontificia Universidad Católica de Chile.
+Software Engineer with a master's degree in Deep Learning. I'm currently working as a Software Engineer at NotCo.
