@@ -3,6 +3,7 @@ title: "Object attention and contextualization for vision and language navigatio
 collection: publications
 permalink: /publication/2022-11-01-thesis-master
 date: 2022-11-14
+venue: SIBUC UC
 paperurl: 'https://buscador.bibliotecas.uc.cl/permalink/56PUC_INST/bf8vpj/alma997397024403396'
 citation: 'Earle. (2022). Object attention and contextualization for vision and language navigation.'
 ---
