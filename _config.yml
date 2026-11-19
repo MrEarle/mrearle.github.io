@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benjamin Earle"
 title_separator          : "-"
 name                     : &name "Benjamin Earle"
-description              : &description "Software Engineer with a master's degree in Deep Learning. I'm currently working as a Software Engineer at NotCo."
+description              : &description "Senior Software Engineer & Tech Lead at NotCo AI. I build AI products for food R&D."
 url                      : https://mrearle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrearle.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Benjamin Earle"
   avatar           : "profile.png"
-  bio              : "Software Engineer with a master's degree in Deep Learning. I'm currently working as a Software Engineer at NotCo."
+  bio              : "Senior Software Engineer & Tech Lead at NotCo AI. I build AI products for food R&D."
   location         : "Santiago, Chile"
-  employer         : NotCo
+  employer         : NotCo AI
   pubmed           : 
   googlescholar    :
   email            : benjaminearle123@gmail.com
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : umitoni
+  steam            :
   tumblr           :
   twitter          :
   vine             :
