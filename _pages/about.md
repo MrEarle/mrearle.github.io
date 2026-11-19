@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior software engineer and tech lead at NotCo AI. I lead the technical direction of Elevate, a platform that helps food developers find better formulations faster with Bayesian optimization. I own its architecture end to end, from a Vue frontend and a Python backend to optimization workers on Kubernetes, and I lead the engineers who build it.
+I'm a senior software engineer and tech lead at NotCo AI. I lead the technical direction of Elevate, part of the company's suite of AI tools for food development, which helps food developers find better formulations faster with Bayesian optimization. I own its architecture end to end, from a Vue frontend and a Python backend to optimization workers on Kubernetes, and I lead the engineers who build it.
 
 I work with AI agents every day, and I spend my own time where they can't help: deciding what to build and what to cut, setting the bar for proof, and keeping systems simple enough to own. Before industry, I did research in deep learning on vision-language navigation; my publications are below.
 
 ## What I work on
 
 - **Elevate.** I've been its tech lead since 2024. Recently I designed and shipped a feasibility check that tells food developers, before they run an experiment, whether their constraints allow any valid formula and why an ingredient can never be used.
-- **Enterprise environments.** I built the template for dedicated customer environments (per-tenant authentication, a data-access proxy and external-group permissions), and validated the optimization engine on Azure.
+- **Enterprise environments.** I built the first dedicated customer environment and its shared foundations (per-tenant authentication, a data-access proxy and external-group permissions), which became the template for later ones, and I validated the optimization engine on Azure.
 - **Foundations across products.** I lead the company's design system, which went from a product need to a released package in 10 days, and I co-led the design of a formula-tracker product, from the build-vs-reuse analysis to its permissions and data model.
 - **Agentic engineering.** I work with an implement-and-review loop: one agent implements, a read-only agent reviews, and people decide the scope, the simplicity bar and the proof required.
-- **People.** I mentor engineers, including through a fundamentals curriculum for an engineer who came from outside computer science, and I run the engineering office hours.
+- **People.** I mentor engineers as they grow into new areas, and I run the engineering office hours.
 
 ## Talks
 
